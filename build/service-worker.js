@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/salat-algerie/precache-manifest.9f3480f41d207b1a2203749b11e3d6ee.js"
+  "/salat-algerie/precache-manifest.d4afd583cbfbba0b451383f5e1882152.js"
 );
 
 self.addEventListener('message', (event) => {
