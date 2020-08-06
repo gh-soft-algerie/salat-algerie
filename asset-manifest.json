@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/salat-algerie/static/css/main.5f361e03.chunk.css",
-    "main.js": "/salat-algerie/static/js/main.10c4c9cb.chunk.js",
-    "main.js.map": "/salat-algerie/static/js/main.10c4c9cb.chunk.js.map",
+    "main.js": "/salat-algerie/static/js/main.015f4f4f.chunk.js",
+    "main.js.map": "/salat-algerie/static/js/main.015f4f4f.chunk.js.map",
     "runtime-main.js": "/salat-algerie/static/js/runtime-main.60763098.js",
     "runtime-main.js.map": "/salat-algerie/static/js/runtime-main.60763098.js.map",
-    "static/js/2.3a0e4f2f.chunk.js": "/salat-algerie/static/js/2.3a0e4f2f.chunk.js",
-    "static/js/2.3a0e4f2f.chunk.js.map": "/salat-algerie/static/js/2.3a0e4f2f.chunk.js.map",
+    "static/js/2.71538950.chunk.js": "/salat-algerie/static/js/2.71538950.chunk.js",
+    "static/js/2.71538950.chunk.js.map": "/salat-algerie/static/js/2.71538950.chunk.js.map",
     "index.html": "/salat-algerie/index.html",
-    "precache-manifest.9f3480f41d207b1a2203749b11e3d6ee.js": "/salat-algerie/precache-manifest.9f3480f41d207b1a2203749b11e3d6ee.js",
+    "precache-manifest.d4afd583cbfbba0b451383f5e1882152.js": "/salat-algerie/precache-manifest.d4afd583cbfbba0b451383f5e1882152.js",
     "service-worker.js": "/salat-algerie/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/salat-algerie/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3a0e4f2f.chunk.js.LICENSE.txt": "/salat-algerie/static/js/2.3a0e4f2f.chunk.js.LICENSE.txt"
+    "static/js/2.71538950.chunk.js.LICENSE.txt": "/salat-algerie/static/js/2.71538950.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.60763098.js",
-    "static/js/2.3a0e4f2f.chunk.js",
+    "static/js/2.71538950.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.10c4c9cb.chunk.js"
+    "static/js/main.015f4f4f.chunk.js"
   ]
 }
