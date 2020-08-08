@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e9160464cc5e1217703813f36626e6a",
+    "revision": "73e4cf3888f2db717ef204f2bfb39808",
     "url": "/salat-algerie/index.html"
   },
   {
-    "revision": "8407e76ae145dc996a90",
+    "revision": "eb50d0c7bd6de960a044",
     "url": "/salat-algerie/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/salat-algerie/static/js/2.71538950.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8407e76ae145dc996a90",
-    "url": "/salat-algerie/static/js/main.015f4f4f.chunk.js"
+    "revision": "eb50d0c7bd6de960a044",
+    "url": "/salat-algerie/static/js/main.56516103.chunk.js"
   },
   {
     "revision": "e61f750bc9641834df09",
