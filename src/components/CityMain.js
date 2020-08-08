@@ -46,10 +46,10 @@ const TimesList = ({ times, loading, ...props }) => {
 const currentWilaya = (param, geocity) => {
 	
 	let p = param ? param.replace(/-/g, ' ') : geocity ? geocity.toLowerCase() : '';
-	
-	return wilayas.find((obj) => {
+	let findWilaya = wilayas.find((obj) => {
 		if (obj.nom.toLowerCase() == p) return obj;
 	});
+	return findWilaya ? findWilaya : {nom_ar: 'loading', nom: 'loading'}
 };
 const formatWilaya = (plain) => {
 	console.log('currentwilaya', plain);
